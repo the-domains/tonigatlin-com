@@ -1,0 +1,28 @@
+name: ToniGatlin.com
+favicon: null
+layout_spectrum: 0.8730560562107712
+typography_spectrum: 0.17258705128915608
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8017803377006203
+  lightness: 0.015952145913615823
+  saturation: 0.7167741968296468
+  rhythmicContrast: 0.30181225994601846
+purpose: []
