@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Miss Red Pen: Résumé writing, editing, proofreading and other writing and business services to help effectively tell your story'
-datePublished: '2016-05-20T21:32:09.208Z'
-dateModified: '2016-05-20T21:32:05.593Z'
+datePublished: '2016-05-20T21:41:53.485Z'
+dateModified: '2016-05-20T21:41:39.012Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-where-to-find-toni.md
@@ -17,7 +17,7 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0138bfc6-baf1-4c38-89c7-d34e7277778a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c49f83a4984409f5f1d674d8e6b5fc1591ac7d70.png)
 
 [Miss Red Pen][0]: Résumé writing, editing, proofreading and other writing and business services to help effectively tell your story
 
