@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Miss Red Pen: This is where I do résumé writing along wth editing, proofreading, and other services to help effectively tell your unique personal, professional, or small business story.'
-datePublished: '2016-05-20T21:59:12.284Z'
-dateModified: '2016-05-20T21:58:06.917Z'
+datePublished: '2016-05-20T21:59:51.454Z'
+dateModified: '2016-05-20T21:59:20.983Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-where-to-find-toni.md
