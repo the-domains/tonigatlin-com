@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ToniGatlin.com]]></title>
         <description><![CDATA[ToniGatlin.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://tonigatlin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 21:19:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 21:22:42 GMT</lastBuildDate>
+        <atom:link href="http://tonigatlin.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b59471d7-1324-40d0-9ba6-3447f9d4e696.png">]]></description>
-            <link>undefined032e3a19-8f82-40ab-97f7-1e485869fb81/index.html</link>
+            <title><![CDATA[Toni Gatlin]]></title>
+            <description><![CDATA[<article><h1>Toni Gatlin</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7635ea7c7d4a63eef09607301f8369bd29a54308.png"></article>]]></description>
+            <link>http://tonigatlin.com/032e3a19-8f82-40ab-97f7-1e485869fb81/index.html</link>
             <guid isPermaLink="false">032e3a19-8f82-40ab-97f7-1e485869fb81</guid>
-            <pubDate>Fri, 20 May 2016 21:18:53 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 21:22:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
