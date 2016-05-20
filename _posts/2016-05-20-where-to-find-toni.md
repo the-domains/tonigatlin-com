@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Miss Red Pen: Résumé writing, editing, proofreading and other writing and business services to help effectively tell your story'
-datePublished: '2016-05-20T21:41:53.485Z'
-dateModified: '2016-05-20T21:41:39.012Z'
+description: 'Miss Red Pen: This is where I do résumé writing along wth editing, proofreading, and other services to help effectively tell your unique personal, professional, or small business story.'
+datePublished: '2016-05-20T21:55:38.687Z'
+dateModified: '2016-05-20T21:55:05.243Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-where-to-find-toni.md
@@ -17,13 +17,15 @@ starred: false
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c49f83a4984409f5f1d674d8e6b5fc1591ac7d70.png)
+Hi there, and welcome. I'm Toni, and I write, think, read, and make beautiful and useful things in gorgeous Austin, Texas. Here's where you can find me around the web. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c49f83a4984409f5f1d674d8e6b5fc1591ac7d70.png)
 
-[Miss Red Pen][0]: Résumé writing, editing, proofreading and other writing and business services to help effectively tell your story
+[Miss Red Pen][0]: This is where I do résumé writing along wth editing, proofreading, and other services to help effectively tell your unique personal, professional, or small business story.
 
-[Red Pen Travelers][1]: Completely customized handcrafted leather notebooks that show your personal style and local pride
+[Red Pen Travelers][1]: Here's where I create completely customized, lovingly handcrafted leather notebooks that showcase your personal style and local pride.
 
-[Miss Merryheart Aprons][2]: The original Retro Ripple Apron pattern, available as an [instant download][3] so you can print and sew today
+[Miss Merryheart Aprons][2]: I designed the unique and completely original Retro Ripple Apron pattern, available as an [instant download][3] so you can print it at home and start sewing today.
+
+Want to get in touch about something else? I'd love to hear from you. Send your mail to toni at toni gatlin dot com. 
 
 [0]: http://missredpen.com/
 [1]: http://redpentravelers.com/
