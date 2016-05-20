@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Miss Red Pen: résumé writing, editing, proofreading and other writing and business services to help tell your story'
-datePublished: '2016-05-20T21:27:41.489Z'
-dateModified: '2016-05-20T21:27:28.530Z'
+datePublished: '2016-05-20T21:28:30.636Z'
+dateModified: '2016-05-20T21:27:47.541Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-20-where-to-find-toni.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-20-where-to-find-toni.md
 url: where-to-find-toni/index.html
 _type: Article
 
