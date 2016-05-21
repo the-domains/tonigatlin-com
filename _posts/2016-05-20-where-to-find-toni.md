@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Miss Red Pen: This is where I do résumé writing along wth editing, proofreading, and other services to help effectively tell your unique personal, professional, or small business story.'
-datePublished: '2016-05-20T22:21:45.865Z'
-dateModified: '2016-05-20T22:21:23.629Z'
+datePublished: '2016-05-21T16:57:25.694Z'
+dateModified: '2016-05-21T16:57:05.791Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-where-to-find-toni.md
@@ -17,7 +17,7 @@ starred: false
 _type: Blurb
 
 ---
-Hi there, and welcome! I'm Toni, and I write, think, read, and make beautiful and useful things in wonderful Austin, Texas. Here's where you can find me around the web.
+I'm Toni, and I write, think, read, and make beautiful and useful things in the gorgeous capital of my native state of Texas. Here's where you can find me around the web.
 
 [Miss Red Pen][0]: This is where I do résumé writing along wth editing, proofreading, and other services to help effectively tell your unique personal, professional, or small business story.
 
